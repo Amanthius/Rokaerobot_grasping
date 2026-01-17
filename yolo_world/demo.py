@@ -47,8 +47,8 @@ def send_detection_request(image_path, classes):
 
 # 使用示例
 if __name__ == '__main__':
-    image_path = '1.jpg'  # 替换为你的图片路径
-    classes = ['banana']  # 替换为你需要的类别
+    image_path = '2.jpg'  # 替换为你的图片路径
+    classes = ['cup']  # 替换为你需要的类别
     detections = send_detection_request(image_path, classes)
 
     draw_detections(image_path, detections)
