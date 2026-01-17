@@ -66,6 +66,7 @@ python yolo\_world.py
 
 测试检测服务:  
 运行 python yolo\_world/demo.py，确认 classes \= \['cup'\] 等类别是否能被正确框选。
+
 <img width="180" height="200" alt="image" src="https://github.com/user-attachments/assets/eb520500-73cb-48f8-b391-ea71ba7f9076" />
 <img width="180" height="200" alt="image" src="https://github.com/user-attachments/assets/866d9514-1159-4ab0-9479-942ec5adfb54" />
 
