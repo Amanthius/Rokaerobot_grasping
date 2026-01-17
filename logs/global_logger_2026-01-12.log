@@ -1,0 +1,21 @@
+[I|2026-01-12 20:08:34.362 7721] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-01-12 20:08:34.459 7720] uid: 19026f9e-7ce4 | re-watch event: moveExecution 
+[I|2026-01-12 20:08:34.459 7720] uid: 19026f9e-7ce4 | Connect to 192.168.0.160 from 
+[I|2026-01-12 20:08:34.470 7721] uid: 19026f9e-7ce4 | xService 192.168.0.160:6666 disconnect
+[I|2026-01-12 20:08:44.521 7874] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-01-12 20:08:44.624 7870] uid: 19026f9e-7ce4 | re-watch event: moveExecution 
+[I|2026-01-12 20:08:44.624 7870] uid: 19026f9e-7ce4 | Connect to 192.168.0.160 from 
+[I|2026-01-12 20:08:44.625 7874] uid: 19026f9e-7ce4 | xService 192.168.0.160:6666 disconnect
+[I|2026-01-12 20:08:44.630 7886] uid: 19026f9e-7ce4 | xService 192.168.0.160:6666 connect
+[I|2026-01-12 20:08:44.630 7886] uid: 19026f9e-7ce4 | re-watch event: moveExecution 
+[I|2026-01-12 20:08:44.729 7870] uid: 19026f9e-7ce4 | re-watch event: moveExecution 
+[I|2026-01-12 20:08:44.729 7870] uid: 19026f9e-7ce4 | Connect to 192.168.0.160 from 
+[I|2026-01-12 20:08:44.784 7870] uid: 19026f9e-7ce4 | setOperationMode end, switch to auto (0)
+[I|2026-01-12 20:08:45.727 7870] uid: 19026f9e-7ce4 | setPowerState end, switch motor true (0)
+[I|2026-01-12 20:08:45.731 7870] uid: 19026f9e-7ce4 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-01-12 20:08:45.732 7870] uid: 19026f9e-7ce4 | Process joints [3.933, -0.315, 1.307, -0.004, 1.503, 0], s:50, z:50, js:-1
+[I|2026-01-12 20:08:45.732 7870] uid: 19026f9e-7ce4 | Append cmd absj#0
+[I|2026-01-12 20:08:45.781 7870] uid: 19026f9e-7ce4 | moveStart end (0)
+[I|2026-01-12 20:08:54.206 7870] uid: 19026f9e-7ce4 | stop end (0)
+[I|2026-01-12 20:08:54.253 7886] uid: 19026f9e-7ce4 | xService 192.168.0.160:6666 disconnect
+[I|2026-01-12 20:08:54.256 7870] uid: 19026f9e-7ce4 | disconnectFromRobot end (0)
