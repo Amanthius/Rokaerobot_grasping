@@ -65,7 +65,11 @@ cd yolo\_world
 python yolo\_world.py
 
 测试检测服务:  
-运行 python yolo\_world/demo.py，确认 classes \= \['banana'\] 等类别是否能被正确框选。
+运行 python yolo\_world/demo.py，确认 classes \= \['cup'\] 等类别是否能被正确框选。
+![112c818f8648ef443097806e95068d64](https://github.com/user-attachments/assets/f4984ab9-8ca3-40a8-99cd-b31e155a59f8)
+
+<img width="840" height="1125" alt="image" src="https://github.com/user-attachments/assets/866d9514-1159-4ab0-9479-942ec5adfb54" />
+
 
 ### **第二步：配置 LLM 密钥**
 
