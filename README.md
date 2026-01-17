@@ -100,7 +100,7 @@ python robot\_grasping.py
 
 * **项目名称**: [GraspNet-1Billion](https://github.com/graspnet/graspnet-baseline)  
 * **相关论文**: *"GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping" (CVPR 2020\)*  
-* **版权所有**: **graspnet team, MVIG, SJTU (上海交通大学机器视觉与智能决策实验室)**  
+* **版权所有**: 
 * **许可协议条款**:All data, labels, code and models belong to the graspnet team, MVIG, SJTU and are freely available for free non-commercial use, and may be redistributed under these conditions. For commercial queries, please drop an email at fhaoshu at gmail\_dot\_com and cc lucewu at sjtu.edu.cn .
 
 ### **其他**
