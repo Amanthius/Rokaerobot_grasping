@@ -35,6 +35,16 @@
 
 建议使用 **Python 3.10**。
 
+可以直接使用下面命令：
+
+pip install -r requirements.txt（推荐）
+
+或者使用conda:
+
+conda env create -f environment.yml
+
+或者直接安装
+
 pip install numpy opencv-python open3d scipy openai pymodbus requests flask ultralytics
 
 ### **2\. 编译 GraspNet 关键算子 (必选)**
