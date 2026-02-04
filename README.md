@@ -4,7 +4,7 @@
 
 系统深度集成了 **LLM 任务规划**、**YOLO-World 开放词汇检测** 与 **GraspNet 6-DoF 姿态生成**。项目核心亮点在于实现了严谨的眼在手（Eye-in-Hand）坐标变换链条，能够将视觉生成的抓取位姿精准转化为机械臂的执行动作。
 
-<img src="https://github.com/user-attachments/assets/f7e0e598-5314-429f-ae69-e1ca6207a6fe" width="400" />
+<img src="https://github.com/user-attachments/assets/f7e0e598-5314-429f-ae69-e1ca6207a6fe" width="300" />
 
 ## **🌟 核心特性**
 
