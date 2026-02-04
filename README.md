@@ -96,7 +96,10 @@ python robot\_grasping.py
 
 程序启动后，在控制台直接输入中文指令即可开始抓取任务。
 
-![机械臂抓取演示]![36de6dc30a55980f515169a78d162f75](https://github.com/user-attachments/assets/f7e0e598-5314-429f-ae69-e1ca6207a6fe)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f7e0e598-5314-429f-ae69-e1ca6207a6fe" width="70%">
+  <p align="center"><b>图 1：机械臂抓取算法实时演示</b></p>
+</div>
 
 ## **⚙️ 硬件注意事项**
 
