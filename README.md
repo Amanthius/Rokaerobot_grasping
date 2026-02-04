@@ -4,6 +4,8 @@
 
 系统深度集成了 **LLM 任务规划**、**YOLO-World 开放词汇检测** 与 **GraspNet 6-DoF 姿态生成**。项目核心亮点在于实现了严谨的眼在手（Eye-in-Hand）坐标变换链条，能够将视觉生成的抓取位姿精准转化为机械臂的执行动作。
 
+<img src="https://github.com/user-attachments/assets/f7e0e598-5314-429f-ae69-e1ca6207a6fe" width="400" />
+
 ## **🌟 核心特性**
 
 * **LLM 语义驱动**: 集成 DeepSeek 接口，支持通过自然语言执行复杂的逻辑操作（如“帮我清理桌子上的橙子”）。  
@@ -95,8 +97,6 @@ python yolo\_world.py
 python robot\_grasping.py
 
 程序启动后，在控制台直接输入中文指令即可开始抓取任务。
-
-<img src="https://github.com/user-attachments/assets/f7e0e598-5314-429f-ae69-e1ca6207a6fe" width="400" />
 
 ## **⚙️ 硬件注意事项**
 
